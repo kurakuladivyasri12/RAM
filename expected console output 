@@ -1,0 +1,7 @@
+
+Writing 55 to Address  3
+Writing aa to Address  7
+Writing f0 to Address 10
+Reading Address  3 = 55
+Reading Address  7 = aa
+Reading Address 10 = f0
